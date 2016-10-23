@@ -1,3 +1,62 @@
+#landing {
+  position: relative; }
+  #landing div h1 {
+    position: absolute;
+    font-family: 'Pacifico', cursive;
+    color: #bd9046;
+    font-size: 3em;
+    left: 2em;
+    top: 2em; }
+  #landing div h2 {
+    position: absolute;
+    color: #FFF;
+    font-size: 3em;
+    left: 8em;
+    top: 8em; }
+  #landing div h3 {
+    position: absolute;
+    color: #FFF;
+    font-size: 1.4em;
+    left: 25em;
+    top: 20em; }
+  #landing div a {
+    text-transform: uppercase;
+    background-color: #719dca;
+    color: #FFF;
+    margin-left: 35em;
+    margin-top: -58em;
+    padding: 0.8em 3em; }
+  #landing nav {
+    margin-left: 10em;
+    position: absolute;
+    top: 3em;
+    right: 8em; }
+    #landing nav a {
+      color: #FFF;
+      margin-left: 2em; }
 
+#intro h1 {
+  color: #719dca;
+  font-size: 1.8em;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: sans-serif;
+  margin-left: 22em;
+  margin-top: 3em; }
+#intro h2 {
+  font-size: 1em;
+  color: #899394;
+  margin-left: 35em;
+  margin-top: 1em; }
+#intro i {
+  color: #fdc55f;
+  font-size: 2em; }
+  #intro i #row1 p {
+    color: #495759;
+    font-size: 0.55em;
+    font-weight: bold;
+    margin-left: 2em;
+    text-transform: uppercase;
+    margin-top: -1.8em; }
 
 /*# sourceMappingURL=main.css.map */
