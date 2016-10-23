@@ -129,5 +129,16 @@
     font-size: 2em;
     margin-left: 19.25em;
     margin-top: 4em; }
+  #intro #types .bakwas {
+    color: #FFF;
+    background-color: #ffc056; }
+    @media (min-width: 768px) {
+      #intro #types .bakwas {
+        min-height: 360px;
+        width: 50%;
+        float: right; } }
+    #intro #types .bakwas span {
+      font-size: 3em;
+      font-weight: bold; }
 
 /*# sourceMappingURL=main.css.map */

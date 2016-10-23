@@ -133,7 +133,28 @@ margin-top: -2em;
 
 
 }
+.bakwas{
+  color:#FFF;
+
+  background-color: #ffc056;
+  @media (min-width: 768px){
+min-height: 360px;
+    width: 50%;
+
+    float: right;
 }
+  span{
+  font-size: 3em;
+  font-weight: bold;
+
+
+  }
+}
+
+}
+
+
+
 
 
 }
