@@ -41,22 +41,93 @@
   text-transform: uppercase;
   font-weight: bold;
   font-family: sans-serif;
-  margin-left: 22em;
-  margin-top: 3em; }
+  margin-left: 21em;
+  margin-top: 2em; }
 #intro h2 {
   font-size: 1em;
   color: #899394;
-  margin-left: 35em;
+  margin-left: 33em;
   margin-top: 1em; }
 #intro i {
   color: #fdc55f;
   font-size: 2em; }
-  #intro i #row1 p {
+#intro #types {
+  margin-top: 5em; }
+  #intro #types .row1 .b {
     color: #495759;
-    font-size: 0.55em;
+    font-size: 1em;
     font-weight: bold;
-    margin-left: 2em;
     text-transform: uppercase;
-    margin-top: -1.8em; }
+    margin-left: 2em; }
+  #intro #types .row1 .ba {
+    margin-left: 2em; }
+  #intro #types .row1 .a {
+    margin-top: 1em;
+    color: #495759;
+    font-size: 0.8em;
+    margin-left: 3em;
+    text-transform: lowercase; }
+  #intro #types .row1 .sym1 {
+    color: #fdc55f;
+    font-size: 2em;
+    margin-left: -40.5em; }
+  #intro #types .row1 .sym2 {
+    color: #719dca;
+    font-size: 2em;
+    margin-left: 19em; }
+  #intro #types .row2 .b {
+    margin-top: -2em;
+    color: #495759;
+    font-size: 1em;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-left: 2em; }
+  #intro #types .row2 .a {
+    margin-top: 1em;
+    color: #495759;
+    font-size: 0.8em;
+    margin-left: 3em;
+    text-transform: lowercase; }
+  #intro #types .row2 i {
+    color: #fdc55f;
+    font-size: 2em;
+    margin-left: -41.5em; }
+  #intro #types .row2 .sym3 {
+    color: #719dca;
+    font-size: 2em;
+    margin-left: -40.5em;
+    margin-top: 3.85em; }
+  #intro #types .row2 .sym4 {
+    color: #719dca;
+    font-size: 2em;
+    margin-left: 19em;
+    margin-top: 3.85em; }
+  #intro #types .row3 .b {
+    margin-top: -2em;
+    color: #495759;
+    font-size: 1em;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-left: 2em; }
+  #intro #types .row3 .a {
+    margin-top: 1em;
+    color: #495759;
+    font-size: 0.8em;
+    margin-left: 3em;
+    text-transform: lowercase; }
+  #intro #types .row3 i {
+    color: #fdc55f;
+    font-size: 2em;
+    margin-left: -41.5em; }
+  #intro #types .row3 .sym5 {
+    color: #719dca;
+    font-size: 2em;
+    margin-left: -40.5em;
+    margin-top: 4em; }
+  #intro #types .row3 .sym6 {
+    color: #719dca;
+    font-size: 2em;
+    margin-left: 19.25em;
+    margin-top: 4em; }
 
 /*# sourceMappingURL=main.css.map */
