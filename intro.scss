@@ -133,15 +133,18 @@ margin-top: -2em;
 
 
 }
-.bakwas{
-  color:#FFF;
 
+
+
+  .bakwas{
+  color:#FFF;
+margin-top:5em;
   background-color: #ffc056;
   @media (min-width: 768px){
 min-height: 360px;
     width: 50%;
-
     float: right;
+
 }
   span{
   font-size: 3em;
@@ -150,8 +153,12 @@ min-height: 360px;
 
   }
 }
+.trek{
+  margin-top:5em;
+}
 
 }
+
 
 
 
