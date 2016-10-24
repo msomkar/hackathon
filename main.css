@@ -19,6 +19,8 @@
     font-size: 1.4em;
     left: 25em;
     top: 20em; }
+  #landing div img.pehla {
+    width: 100%; }
   #landing div a {
     text-transform: uppercase;
     background-color: #719dca;
@@ -171,9 +173,13 @@
   #work nav a {
     margin-left: 5em;
     color: #000; }
-#work .row5 {
-  margin-top: 4em; }
-#work .row6 {
+#work #row5 {
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-top: 8em; }
+#work #row6 {
+  margin-left: 2em;
+  margin-right: 2em;
   margin-top: 4em; }
 
 /*# sourceMappingURL=main.css.map */
