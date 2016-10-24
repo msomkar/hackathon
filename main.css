@@ -190,12 +190,24 @@
   text-transform: uppercase;
   color: #719dca;
   font-size: 1.5em; }
-#testimonial p {
+#testimonial .thrilok {
   text-align: center;
   color: #e7ad49;
   font-size: 1.2em; }
-  #testimonial p i {
+  #testimonial .thrilok i {
     transform: translate(0, 0.3em);
+    font-size: 1.5em; }
+#testimonial .test1 {
+  margin-top: 3em;
+  background-color: #c0c4c7;
+  color: #495759; }
+#testimonial .test2 {
+  margin-top: 3em;
+  background-color: #c0c4c7;
+  color: #495759; }
+#testimonial .guru {
+  background-color: #FFF; }
+  #testimonial .guru .member {
     font-size: 1.5em; }
 
 /*# sourceMappingURL=main.css.map */

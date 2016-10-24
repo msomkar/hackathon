@@ -9,7 +9,7 @@ font-family: sans-serif;
   font-size: 1.5em;
 
 }
-p{
+.thrilok{
   text-align: center;
   color: #e7ad49;
   font-size: 1.2em;
@@ -17,5 +17,25 @@ p{
     transform: translate(0, 0.3em);
     font-size: 1.5em;
   }
+}
+.test1{
+  margin-top: 3em;
+  background-color:#c0c4c7;
+  color:#495759;
+
+}
+.test2{
+  margin-top: 3em;
+  background-color:#c0c4c7;
+  color:#495759;
+
+}
+.guru{
+  background-color:#FFF;
+  .member{
+    
+    font-size: 1.5em;
+  }
+
 }
 }
